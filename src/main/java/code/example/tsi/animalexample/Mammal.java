@@ -3,7 +3,7 @@ package code.example.tsi.animalexample;
 public abstract class Mammal extends Animal{
 
     //////////////////////////////Attributes////////////////////////////////
-        private int size;
+        private int size = 10;
 
 
 
